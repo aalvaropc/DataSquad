@@ -1,0 +1,437 @@
+{
+    "limit": 3,
+    "offset": 0,
+    "resultCount": 3,
+    "totalCount": 1313,
+    "data": [
+        {
+            "id": "60be2e4d4892414b838545165f2ed340",
+            "positionTitle": "Asesor de Negocios en Formación Microempresa Rural",
+            "location": {
+                "COUNTRY": "PE",
+                "DEPARTMENT": "15",
+                "PROVINCE": "1505",
+                "DISTRICT": "150501"
+            },
+            "geoLocation": {
+                "longitude": -76.257567,
+                "latitude": -13.17193731
+            },
+            "companyId": "e6f4fecd1a01442aabe018557e2bd405",
+            "companyName": "FINANCIERA QAPAQ S.A.",
+            "companyDescription": "Financiera QAPAQ es una institución peruana de capital extranjero, regulada por la Superintendencia de Banca, Seguros y AFP, que inició sus operaciones en Enero del 2010 bajo el nombre de Financiera Universal con una visión, misión y modelo de negocios similares a las de sus predecesores en Ecuador, Banco Solidario y Unibanco.\n\n En el año 2012 adquiere la Caja Profinanzas, fusionando sus operaciones para finales del año y ampliando tanto su cobertura geográfica como de oferta de productos, ya que Profinanzas era una entidad especializada en el crédito rural agrícola, con presencia en el mercado superior a 18 años. \n\nActualmente Financiera QAPAQ viene consolidando su posición de mercado, operando en la costa, sierra y selva central del Perú, con una red de 40 agencias brindando créditos a microempresarios y agricultores.",
+            "vacancySectors": null,
+            "contractType": {
+                "id": "2",
+                "name": "Plazo fijo"
+            },
+            "hoursPerWeek": {
+                "id": "1",
+                "name": "Tiempo completo",
+                "minimum": null,
+                "maximum": 40
+            },
+            "educationDegree": {
+                "id": "10",
+                "name": "Universitaria completa"
+            },
+            "offeredRemunerationPackages": [
+                {
+                    "id": "B",
+                    "name": null,
+                    "currency": null,
+                    "minimumAmount": 1025,
+                    "maximumAmount": 1199,
+                    "type": "1025 - 1199"
+                }
+            ],
+            "displaySalary": true,
+            "datePosted": "2024-11-01",
+            "showContactPerson": true,
+            "hideCompanyInformation": null,
+            "confidentialFields": [
+                "ADDRESS",
+                "DESCRIPTION",
+                "GEO_LOCATION",
+                "NAME_LOGO_BANNER",
+                "SECTOR",
+                "SIZE",
+                "YOUTUBE_URL"
+            ],
+            "companyLogo": null,
+            "companyHeader": null,
+            "profileInformation": {
+                "favourite": false,
+                "score": 1.0,
+                "ownScore": null,
+                "otherScore": null,
+                "application": null
+            },
+            "active": true,
+            "companyYouTubeUrl": null,
+            "hiringIncentives": null,
+            "approvalStatus": "APPROVED",
+            "isDisabilityVacancy": false,
+            "extended": null
+        },
+        {
+            "id": "86f63bd3e1cc4f85b2d396d6689cdb52",
+            "positionTitle": "ASISTENTE DE COMPRAS",
+            "location": {
+                "COUNTRY": "PE",
+                "DEPARTMENT": "15",
+                "PROVINCE": "1505",
+                "DISTRICT": "150505"
+            },
+            "geoLocation": {
+                "longitude": -76.62994252,
+                "latitude": -12.42981709
+            },
+            "companyId": "da422742ffd146b681fdc2d312201e3c",
+            "companyName": "ALIMENCORP SOCIEDAD ANONIMA CERRADA",
+            "companyDescription": "Somos una empresa de rendering, especializada en la producción de harinas proteicas de origen animal de alta biodisponibilidad, bajo estrictos parámetros de calidad, representando una gran solución nutricional para el sector de la crianza intensiva y amigable con el medio ambiente.",
+            "vacancySectors": null,
+            "contractType": {
+                "id": "2",
+                "name": "Plazo fijo"
+            },
+            "hoursPerWeek": {
+                "id": "1",
+                "name": "Tiempo completo",
+                "minimum": null,
+                "maximum": 40
+            },
+            "educationDegree": {
+                "id": "6",
+                "name": "Técnica completa"
+            },
+            "offeredRemunerationPackages": [
+                {
+                    "id": "F",
+                    "name": null,
+                    "currency": null,
+                    "minimumAmount": 1800,
+                    "maximumAmount": 1999,
+                    "type": "1800-1999"
+                }
+            ],
+            "displaySalary": true,
+            "datePosted": "2024-11-01",
+            "showContactPerson": true,
+            "hideCompanyInformation": false,
+            "confidentialFields": [
+                "ADDRESS",
+                "DESCRIPTION",
+                "GEO_LOCATION",
+                "NAME_LOGO_BANNER",
+                "SECTOR",
+                "SIZE",
+                "YOUTUBE_URL"
+            ],
+            "companyLogo": {
+                "id": "da422742ffd146b681fdc2d312201e3c_ORGANIZATION_LOGO_SQUARE",
+                "type": "ORGANIZATION_LOGO_SQUARE",
+                "url": "/company-logos/da422742ffd146b681fdc2d312201e3c_ORGANIZATION_LOGO_SQUARE.jpg",
+                "displayName": "Screenshot_1 (1).jpg",
+                "creationDate": "2024-10-31T14:10:37.683558Z"
+            },
+            "companyHeader": {
+                "id": "da422742ffd146b681fdc2d312201e3c_ORGANIZATION_HEADER",
+                "type": "ORGANIZATION_HEADER",
+                "url": "/company-headers/da422742ffd146b681fdc2d312201e3c_ORGANIZATION_HEADER.jpg",
+                "displayName": "WhatsApp Image 2024-10-31 at 8.44.05 AM.jpeg",
+                "creationDate": "2024-10-31T14:10:48.424885Z"
+            },
+            "profileInformation": {
+                "favourite": false,
+                "score": 1.0,
+                "ownScore": null,
+                "otherScore": null,
+                "application": null
+            },
+            "active": true,
+            "companyYouTubeUrl": null,
+            "hiringIncentives": null,
+            "approvalStatus": "APPROVED",
+            "isDisabilityVacancy": false,
+            "extended": {
+                "workMode": "2"
+            }
+        },
+        {
+            "id": "fd839f03c74c4154803dd1e3be86686e",
+            "positionTitle": "ASISTENTE CASS",
+            "location": {
+                "COUNTRY": "PE",
+                "DEPARTMENT": "16",
+                "PROVINCE": "1603",
+                "DISTRICT": "160301"
+            },
+            "geoLocation": {
+                "longitude": -74.11420369,
+                "latitude": -4.44271761
+            },
+            "companyId": "ec8723f7c1074e01a39838a4926264fc",
+            "companyName": "LAMOR PERU S.A.C.",
+            "companyDescription": "Servicio de atención de respuesta a emergencias.",
+            "vacancySectors": null,
+            "contractType": {
+                "id": "2",
+                "name": "Plazo fijo"
+            },
+            "hoursPerWeek": {
+                "id": "1",
+                "name": "Tiempo completo",
+                "minimum": null,
+                "maximum": 40
+            },
+            "educationDegree": {
+                "id": "6",
+                "name": "Técnica completa"
+            },
+            "offeredRemunerationPackages": [],
+            "displaySalary": false,
+            "datePosted": "2024-10-31",
+            "showContactPerson": null,
+            "hideCompanyInformation": null,
+            "confidentialFields": [
+                "ADDRESS",
+                "DESCRIPTION",
+                "GEO_LOCATION",
+                "NAME_LOGO_BANNER",
+                "SECTOR",
+                "SIZE",
+                "YOUTUBE_URL"
+            ],
+            "companyLogo": null,
+            "companyHeader": null,
+            "profileInformation": {
+                "favourite": false,
+                "score": 1.0,
+                "ownScore": null,
+                "otherScore": null,
+                "application": null
+            },
+            "active": true,
+            "companyYouTubeUrl": null,
+            "hiringIncentives": null,
+            "approvalStatus": "APPROVED",
+            "isDisabilityVacancy": false,
+            "extended": null
+        }
+    ],
+    "facets": [
+        {
+            "id": "RECENCY",
+            "name": "Date posted",
+            "multiSelectable": false,
+            "searchable": false,
+            "options": [
+                {
+                    "id": "TODAY",
+                    "name": "Since yesterday",
+                    "numberOfMatches": 0,
+                    "filterData": "RECENCY==TODAY"
+                },
+                {
+                    "id": "3DAYSAGO",
+                    "name": "Last 3 days",
+                    "numberOfMatches": 63,
+                    "filterData": "RECENCY==3DAYSAGO"
+                },
+                {
+                    "id": "THIS_WEEK",
+                    "name": "Last week",
+                    "numberOfMatches": 289,
+                    "filterData": "RECENCY==THIS_WEEK"
+                },
+                {
+                    "id": "2WEEKSAGO",
+                    "name": "Last 2 weeks",
+                    "numberOfMatches": 653,
+                    "filterData": "RECENCY==2WEEKSAGO"
+                },
+                {
+                    "id": "THIS_MONTH",
+                    "name": "Last month",
+                    "numberOfMatches": 1122,
+                    "filterData": "RECENCY==THIS_MONTH"
+                }
+            ]
+        },
+        {
+            "id": "CONTRACT_TYPE",
+            "name": "Contract type",
+            "multiSelectable": true,
+            "searchable": false,
+            "options": [
+                {
+                    "id": "1",
+                    "name": "Plazo indeterminado",
+                    "numberOfMatches": 404,
+                    "filterData": "CONTRACT_TYPE==1"
+                },
+                {
+                    "id": "2",
+                    "name": "Plazo fijo",
+                    "numberOfMatches": 909,
+                    "filterData": "CONTRACT_TYPE==2"
+                }
+            ]
+        },
+        {
+            "id": "HOURS",
+            "name": "Hours per week",
+            "multiSelectable": true,
+            "searchable": false,
+            "options": [
+                {
+                    "id": "1",
+                    "name": "Tiempo completo",
+                    "numberOfMatches": 1239,
+                    "filterData": "HOURS==1"
+                },
+                {
+                    "id": "2",
+                    "name": "Tiempo parcial",
+                    "numberOfMatches": 64,
+                    "filterData": "HOURS==2"
+                },
+                {
+                    "id": "3",
+                    "name": "Por horas",
+                    "numberOfMatches": 10,
+                    "filterData": "HOURS==3"
+                }
+            ]
+        },
+        {
+            "id": "SECTOR",
+            "name": "Sector name",
+            "multiSelectable": true,
+            "searchable": true,
+            "options": [
+                {
+                    "id": "2",
+                    "name": "Agricultura/Ganadería",
+                    "numberOfMatches": 37,
+                    "filterData": "SECTOR==2"
+                },
+                {
+                    "id": "3",
+                    "name": "Agropecuaria",
+                    "numberOfMatches": 14,
+                    "filterData": "SECTOR==3"
+                },
+                {
+                    "id": "63",
+                    "name": "Tecnologías de la información y Sistemas",
+                    "numberOfMatches": 17,
+                    "filterData": "SECTOR==63"
+                },
+                {
+                    "id": "64",
+                    "name": "Telecomunicaciones",
+                    "numberOfMatches": 77,
+                    "filterData": "SECTOR==64"
+                },
+                {
+                    "id": "65",
+                    "name": "Textil",
+                    "numberOfMatches": 18,
+                    "filterData": "SECTOR==65"
+                },
+                {
+                    "id": "66",
+                    "name": "Transporte/Almacenamiento",
+                    "numberOfMatches": 43,
+                    "filterData": "SECTOR==66"
+                }
+            ]
+        },
+        {
+            "id": "EDUCATION",
+            "name": "Education level",
+            "multiSelectable": true,
+            "searchable": false,
+            "options": [
+                {
+                    "id": "1",
+                    "name": "Sin estudios",
+                    "numberOfMatches": 16,
+                    "filterData": "EDUCATION==1"
+                },
+                {
+                    "id": "10",
+                    "name": "Universitaria completa",
+                    "numberOfMatches": 107,
+                    "filterData": "EDUCATION==10"
+                },
+                {
+                    "id": "11",
+                    "name": "Universitaria - Bachiller",
+                    "numberOfMatches": 64,
+                    "filterData": "EDUCATION==11"
+                },
+                {
+                    "id": "12",
+                    "name": "Universitaria - Licenciado",
+                    "numberOfMatches": 73,
+                    "filterData": "EDUCATION==12"
+                }
+            ]
+        },
+        {
+            "id": "SALARY",
+            "name": "Salary range",
+            "multiSelectable": true,
+            "searchable": false,
+            "options": [
+                {
+                    "id": "A",
+                    "name": "Hasta 1024",
+                    "numberOfMatches": 37,
+                    "filterData": "SALARY==A"
+                },
+                {
+                    "id": "B",
+                    "name": "1025 - 1199",
+                    "numberOfMatches": 277,
+                    "filterData": "SALARY==B"
+                },
+                {
+                    "id": "C",
+                    "name": "1200-1399",
+                    "numberOfMatches": 137,
+                    "filterData": "SALARY==C"
+                }
+            ]
+        },
+        {
+            "id": "WORK_MODE",
+            "name": "Modo de puesto",
+            "multiSelectable": true,
+            "searchable": false,
+            "options": [
+                {
+                    "id": "1",
+                    "name": "Remoto",
+                    "numberOfMatches": 11,
+                    "filterData": "WORK_MODE==1"
+                },
+                {
+                    "id": "2",
+                    "name": "Presencial",
+                    "numberOfMatches": 1104,
+                    "filterData": "WORK_MODE==2"
+                },
+                {
+                    "id": "3",
+                    "name": "Mixto",
+                    "numberOfMatches": 38,
+                    "filterData": "WORK_MODE==3"
+                }
+            ]
+        }
+    ]
+}

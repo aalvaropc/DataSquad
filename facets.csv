@@ -1,0 +1,116 @@
+facet_id,facet_name,multi_selectable,searchable,option_id,option_name,number_of_matches,filter_data
+RECENCY,Date posted,False,False,TODAY,Since yesterday,0,RECENCY==TODAY
+RECENCY,Date posted,False,False,3DAYSAGO,Last 3 days,63,RECENCY==3DAYSAGO
+RECENCY,Date posted,False,False,THIS_WEEK,Last week,289,RECENCY==THIS_WEEK
+RECENCY,Date posted,False,False,2WEEKSAGO,Last 2 weeks,653,RECENCY==2WEEKSAGO
+RECENCY,Date posted,False,False,THIS_MONTH,Last month,1122,RECENCY==THIS_MONTH
+CONTRACT_TYPE,Contract type,True,False,1,Plazo indeterminado,404,CONTRACT_TYPE==1
+CONTRACT_TYPE,Contract type,True,False,2,Plazo fijo,909,CONTRACT_TYPE==2
+HOURS,Hours per week,True,False,1,Tiempo completo,1239,HOURS==1
+HOURS,Hours per week,True,False,2,Tiempo parcial,64,HOURS==2
+HOURS,Hours per week,True,False,3,Por horas,10,HOURS==3
+SECTOR,Sector name,True,True,2,Agricultura/Ganadería,37,SECTOR==2
+SECTOR,Sector name,True,True,3,Agropecuaria,14,SECTOR==3
+SECTOR,Sector name,True,True,4,Arquitectura,4,SECTOR==4
+SECTOR,Sector name,True,True,5,Automotriz,16,SECTOR==5
+SECTOR,Sector name,True,True,6,Autopistas,0,SECTOR==6
+SECTOR,Sector name,True,True,1,Aviación/Aeronaves/Astilleros,3,SECTOR==1
+SECTOR,Sector name,True,True,7,Banca/Finanzas/Seguros,38,SECTOR==7
+SECTOR,Sector name,True,True,8,Científica,0,SECTOR==8
+SECTOR,Sector name,True,True,9,Comercial,147,SECTOR==9
+SECTOR,Sector name,True,True,10,Comercio mayorista,44,SECTOR==10
+SECTOR,Sector name,True,True,11,Comercio minorista,31,SECTOR==11
+SECTOR,Sector name,True,True,12,Construcción,38,SECTOR==12
+SECTOR,Sector name,True,True,14,Consultoría en RRHH,102,SECTOR==14
+SECTOR,Sector name,True,True,13,Consultoría/Asesoría,45,SECTOR==13
+SECTOR,Sector name,True,True,15,Consumo Masivo,21,SECTOR==15
+SECTOR,Sector name,True,True,16,Cosmética y  Belleza,5,SECTOR==16
+SECTOR,Sector name,True,True,17,Defensa,0,SECTOR==17
+SECTOR,Sector name,True,True,18,Diseño y Decoración,3,SECTOR==18
+SECTOR,Sector name,True,True,19,Educación,31,SECTOR==19
+SECTOR,Sector name,True,True,20,Electrónica,3,SECTOR==20
+SECTOR,Sector name,True,True,21,Entretenimiento,19,SECTOR==21
+SECTOR,Sector name,True,True,22,Estudios Jurídicos,7,SECTOR==22
+SECTOR,Sector name,True,True,23,Exportación e Importación,9,SECTOR==23
+SECTOR,Sector name,True,True,24,Fabricación de sustancias y productos químicos,4,SECTOR==24
+SECTOR,Sector name,True,True,25,Fabricación de vehículos y maquinaria,0,SECTOR==25
+SECTOR,Sector name,True,True,26,Farmacéuticas,11,SECTOR==26
+SECTOR,Sector name,True,True,27,Forestal/Papel y Celulosa,0,SECTOR==27
+SECTOR,Sector name,True,True,28,Gobierno,33,SECTOR==28
+SECTOR,Sector name,True,True,29,Hotelería / Turismo,29,SECTOR==29
+SECTOR,Sector name,True,True,30,Imprenta / Editoriales,9,SECTOR==30
+SECTOR,Sector name,True,True,45,Industria Metalmecánica,26,SECTOR==45
+SECTOR,Sector name,True,True,31,Industrias varias,49,SECTOR==31
+SECTOR,Sector name,True,True,32,Ingeniería,15,SECTOR==32
+SECTOR,Sector name,True,True,33,Inmobiliaria y actividades de alquiler,13,SECTOR==33
+SECTOR,Sector name,True,True,34,Internet,1,SECTOR==34
+SECTOR,Sector name,True,True,35,Inversiones,0,SECTOR==35
+SECTOR,Sector name,True,True,36,Investigación,1,SECTOR==36
+SECTOR,Sector name,True,True,37,Laboratorio,6,SECTOR==37
+SECTOR,Sector name,True,True,38,Logística / Distribución,29,SECTOR==38
+SECTOR,Sector name,True,True,39,Manufactureras varias,22,SECTOR==39
+SECTOR,Sector name,True,True,40,Maquinaria,3,SECTOR==40
+SECTOR,Sector name,True,True,41,Materiales de Construcción,12,SECTOR==41
+SECTOR,Sector name,True,True,44,Medios de Comunicación y Comunicaciones,5,SECTOR==44
+SECTOR,Sector name,True,True,46,Minería e Hidrocarburos,42,SECTOR==46
+SECTOR,Sector name,True,True,47,Naviera,0,SECTOR==47
+SECTOR,Sector name,True,True,48,ONG,9,SECTOR==48
+SECTOR,Sector name,True,True,50,Organizaciones y Órganos extraterritoriales,1,SECTOR==50
+SECTOR,Sector name,True,True,49,Outsourcing,24,SECTOR==49
+SECTOR,Sector name,True,True,51,"Pesca, acuicultura y actividades relacionadas",15,SECTOR==51
+SECTOR,Sector name,True,True,53,Producción de alimentos y bebidas,26,SECTOR==53
+SECTOR,Sector name,True,True,52,Producción de madera y Fabricación de productos de madera y corcho,13,SECTOR==52
+SECTOR,Sector name,True,True,54,Publicidad / RRPP,4,SECTOR==54
+SECTOR,Sector name,True,True,55,Química,0,SECTOR==55
+SECTOR,Sector name,True,True,56,Restaurantes,54,SECTOR==56
+SECTOR,Sector name,True,True,57,Retail,191,SECTOR==57
+SECTOR,Sector name,True,True,58,Seguridad,28,SECTOR==58
+SECTOR,Sector name,True,True,59,Seguros / Previsión,1,SECTOR==59
+SECTOR,Sector name,True,True,60,Servicios,119,SECTOR==60
+SECTOR,Sector name,True,True,61,Servicios Profesionales,34,SECTOR==61
+SECTOR,Sector name,True,True,42,Servicios sociales y de salud,19,SECTOR==42
+SECTOR,Sector name,True,True,62,Siderurgia,0,SECTOR==62
+SECTOR,Sector name,True,True,43,"Suministro de electricidad, gas y agua",14,SECTOR==43
+SECTOR,Sector name,True,True,63,Tecnologías de la información y Sistemas,17,SECTOR==63
+SECTOR,Sector name,True,True,64,Telecomunicaciones,77,SECTOR==64
+SECTOR,Sector name,True,True,65,Textil,18,SECTOR==65
+SECTOR,Sector name,True,True,66,Transporte/Almacenamiento,43,SECTOR==66
+EDUCATION,Education level,True,False,1,Sin estudios,16,EDUCATION==1
+EDUCATION,Education level,True,False,10,Universitaria completa,107,EDUCATION==10
+EDUCATION,Education level,True,False,11,Universitaria - Bachiller,64,EDUCATION==11
+EDUCATION,Education level,True,False,12,Universitaria - Licenciado,73,EDUCATION==12
+EDUCATION,Education level,True,False,13,Universitaria incompleta,0,EDUCATION==13
+EDUCATION,Education level,True,False,14,Maestría completa,5,EDUCATION==14
+EDUCATION,Education level,True,False,15,Maestría estudiando,1,EDUCATION==15
+EDUCATION,Education level,True,False,16,Maestría incompleta,1,EDUCATION==16
+EDUCATION,Education level,True,False,17,Doctorado completo,0,EDUCATION==17
+EDUCATION,Education level,True,False,18,Doctorado estudiando,0,EDUCATION==18
+EDUCATION,Education level,True,False,19,Doctorado incompleto,0,EDUCATION==19
+EDUCATION,Education level,True,False,2,Primaria incompleta,4,EDUCATION==2
+EDUCATION,Education level,True,False,20,Educación especial incompleta,0,EDUCATION==20
+EDUCATION,Education level,True,False,21,Educación especial completa,0,EDUCATION==21
+EDUCATION,Education level,True,False,3,Primaria completa,17,EDUCATION==3
+EDUCATION,Education level,True,False,4,Secundaria incompleta,18,EDUCATION==4
+EDUCATION,Education level,True,False,5,Secundaria completa,689,EDUCATION==5
+EDUCATION,Education level,True,False,6,Técnica completa,241,EDUCATION==6
+EDUCATION,Education level,True,False,7,Técnica estudiando,35,EDUCATION==7
+EDUCATION,Education level,True,False,8,Técnica incompleta,29,EDUCATION==8
+EDUCATION,Education level,True,False,9,Universitaria estudiando,13,EDUCATION==9
+SALARY,Salary range,True,False,A,Hasta 1024,37,SALARY==A
+SALARY,Salary range,True,False,B,1025 - 1199,277,SALARY==B
+SALARY,Salary range,True,False,C,1200-1399,137,SALARY==C
+SALARY,Salary range,True,False,D,1400-1599,96,SALARY==D
+SALARY,Salary range,True,False,E,1600-1799,57,SALARY==E
+SALARY,Salary range,True,False,F,1800-1999,45,SALARY==F
+SALARY,Salary range,True,False,G,2000-2499,47,SALARY==G
+SALARY,Salary range,True,False,H,2500-2999,30,SALARY==H
+SALARY,Salary range,True,False,I,3000-3499,26,SALARY==I
+SALARY,Salary range,True,False,J,3500-3999,14,SALARY==J
+SALARY,Salary range,True,False,K,4000-4999,14,SALARY==K
+SALARY,Salary range,True,False,L,5000-5999,7,SALARY==L
+SALARY,Salary range,True,False,M,6000-7999,13,SALARY==M
+SALARY,Salary range,True,False,N,8000-9999,3,SALARY==N
+SALARY,Salary range,True,False,O,>=10000,2,SALARY==O
+WORK_MODE,Modo de puesto,True,False,1,Remoto,11,WORK_MODE==1
+WORK_MODE,Modo de puesto,True,False,2,Presencial,1104,WORK_MODE==2
+WORK_MODE,Modo de puesto,True,False,3,Mixto,38,WORK_MODE==3
